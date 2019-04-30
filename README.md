@@ -3,9 +3,9 @@
 
 This mini app using fabric and reactjs hooks was bootstrapped with create-react-app boilerplate.
 
-###Possible changes:
+### Possible changes:
 
-####1
+#### 1
 
 ``
             <select onChange={handleChange}>
@@ -32,15 +32,15 @@ To
 > The reason I went with the first option was because the useState hook was causing rerenders thus rerendering
 > canvas in the same time
 
-####2
+#### 2
 
 Making it modulars via functional components.
 
-####3
+#### 3
 
 Adding CSS to make it more appealing to the eye.
 
-####4
+#### 4
 
 Adding a clear all button.
 
